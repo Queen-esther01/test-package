@@ -3,7 +3,7 @@
     "version": "3.0.0",
     "description": "Removes all spaces from a string",
     "license": "MIT",
-    "repository": "Queen-esther/tiny",
+    "repository": "Queen-esther/test-package",
     "main": "index.js",
     "keywords": [
         "tiny",
