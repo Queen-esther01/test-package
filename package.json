@@ -1,0 +1,14 @@
+{
+    "name": "@queen-esther/test",
+    "version": "3.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "Queen-esther/tiny",
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package",
+        "queen-esther"
+    ]
+}
